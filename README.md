@@ -10,6 +10,7 @@
 - Esolang entuhaist
 - Currently working on a TUI-OS for PyCharm written in Python 3.13
 - TUI-OS is called FOS, and can be downloaded in https://github.com/Lava-salt/fos.git
+- Made my own esolang: RS (Red Shallots), will publish it in GitHub later.
 
 <!---
 Lava-salt/Lava-salt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
