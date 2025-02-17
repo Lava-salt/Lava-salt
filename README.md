@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lava-salt!
+- 👋 Hi, I’m Can Koyuncu, but you can call me @Lava-salt!
 - 👀 I’m interested in Python Coding, also some small HTML5 and esolangs.
 - 🌱 I’m currently learning Python 3, also I know a lot of esoteric languages.
 - 💞️ I’m looking to collaborate on nothing yet.
