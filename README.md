@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 3, also I know a lot of esoteric languages.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me: I will add ways to reach me when I get popular.
-- 😄 Pronouns: idk
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code Python, even HTML in PyCharm
 - Python programmer in PyCharm
 - Newbie HTML5 developer
